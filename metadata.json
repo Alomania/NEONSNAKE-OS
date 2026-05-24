@@ -1,0 +1,8 @@
+{
+  "name": "Neon Synth Snake",
+  "description": "An interactive cyber-neon retro arcade game with an integrated real-audio synthesizer music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
